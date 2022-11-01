@@ -1,0 +1,2 @@
+Hello world!
+Excited to learn Git and coding in general!
